@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 274.5 132.7" style="enable-background:new 0 0 274.5 132.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFD629;}
+	.st1{fill:#BCBCBC;}
+	.st2{fill:#D3D3D3;}
+	.st3{fill:#3E8789;}
+	.st4{font-family:'BalboaPlus-Fill';}
+	.st5{font-size:30.4325px;}
+	.st6{fill:none;}
+</style>
+<g id="Layer_1">
+	<path class="st0" d="M116,4.8c-8.9,0-17.4,1.4-25.4,4c25.9,3,46,25.6,46,53.1c0,29.5-23.2,53.4-51.8,53.4
+		c-24,0-44.2-16.8-50.1-39.6c-0.5,3.7-0.8,7.4-0.8,11.2c0,13.6,3.3,26.4,9.2,37.7c13.3,0,26.5,0,39.8,0.1
+		c26.6,0.1,53.3,0.2,79.9,0.3c8.7,0,17.4,0.1,26.1,0.1c6-11.4,9.4-24.3,9.4-38.1C198.2,41.6,161.4,4.8,116,4.8z"/>
+	<path class="st1" d="M175.6,115.2c0,0,8.5-9.9,16.3,0c0,0,10.1-40.7,61.6,4.4c0,0,15.5-5.1,18.1,7.4h-49l-51.9-1.6L175.6,115.2z"/>
+	<path class="st2" d="M2.6,128.4c0,0-1-11.4,18.6-11.9c0,0,7.8-31.1,37.3-24.9c0,0,8.8,1.8,11.4,18c0,0,17.6-16.9,30,5.3
+		c0,0,19.7-9.8,40.4,3.6c0,0,1,3.6,7.2-1.6c0,0,19.2-12.4,33.1,3.1c0,0,33.7-0.5,40.4,6.2L2.6,128.4z"/>
+</g>
+<g id="Layer_2">
+	<text transform="matrix(0.98 0 0 1 105.795 102.9247)" class="st3 st4 st5">Today</text>
+	<rect x="98.9" y="51.3" class="st6" width="107.5" height="48.1"/>
+	<text transform="matrix(0.98 0 0 1 98.8795 74.5766)" class="st3 st4 st5">scend </text>
+	<path class="st3" d="M73.5,65.6l8.7-1.3C82.1,64.3,74.5,60.2,73.5,65.6z"/>
+	<path class="st3" d="M62.1,83.4c0,0,4.8,4.9,8.4-2.9l8-40.4l10.8,50.1c0,0,7.7,4.5,12.9-4.1L84.5,35.7l4.8-2l-9.6-13.5l-8.8,17.5
+		l5.2-1.2L62.1,83.4z"/>
+</g>
+</svg>
